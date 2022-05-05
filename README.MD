@@ -1,5 +1,5 @@
 # Free Ledgers - Free Oauth2 Authorization Server
-This server provides basic authentication service. 
+This server provides basic authentication service for the Free Ledger project(https://github.com/paris0120/freeledgers). 
 
 This server must be online before any user can log in.
 
